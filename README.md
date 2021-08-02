@@ -1,6 +1,6 @@
 ABOUT ME 
 - 👋 Hi there,  -     
-- I’m @Arjunprajapati0207
+- I’m @Arjunprajapati
 -  🎓   Studying Computer Science and Engineering at IET Lucknow and coding stuffs.
 - 👀 I’m interested in c,c
 - 🌱 I’m currently learning 
