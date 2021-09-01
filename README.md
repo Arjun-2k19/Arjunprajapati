@@ -1,13 +1,19 @@
-ABOUT ME 
-- 👋 Hi there,  -     
-- I’m ARJUN PRAJAPATI
--  🎓   Studying Computer Science and Engineering at IET Lucknow and coding stuffs.
-- 👀 I’m interested in Reading and lerning motivational thoughts
-- 🌱 I’m currently learning programming language in c,c++,java ana python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋
+I'm ARJUN PRAJAPATI
 
-<!---
-Arjunprajapati0207/Arjunprajapati0207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨🏻•💻 About Me
+🎓   Studying Computer Science and Engineering at IET Lucknow and coding stuffs.
+
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+
+🌱   Learning about Javascript , Reactjs , Nodejs and problem solving skills .
+
+✍️   Pursuing Web Development as hobbies/side hustles.
+
+🛠 Tech Stack
+💻   C|C++|Python|java script| MySQL(PostgreSQL) | Mongoose/Mongodb
+
+🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS | MaterialUI | django
+
+🛠 To Learn
+🔧   AWS | Docker🐳 | Firebase
