@@ -11,7 +11,7 @@ I'm ARJUN PRAJAPATI
 ✍️   Pursuing Web Development as hobbies/side hustles.
 
 🛠 Tech Stack
-💻   C|C++|Python|java script| MySQL(PostgreSQL) | Mongoose/Mongodb
+💻   C |C++ |Python |java script | MySQL(PostgreSQL) | Mongoose/Mongodb
 
 🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS | MaterialUI | django
 
