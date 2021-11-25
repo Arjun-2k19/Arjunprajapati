@@ -4,7 +4,7 @@ I'm ARJUN PRAJAPATI
 👨🏻•💻 About Me
 🎓   Studying Computer Science and Engineering at IET Lucknow and coding stuffs.
 
-🤔   Exploring new technologies and developing software solutions and quick hacks.
+🤔   Exploring new technologies and developing software solutions.
 
 🌱   Learning about Javascript , Reactjs , Nodejs and problem solving skills .
 
