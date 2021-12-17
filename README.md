@@ -1,5 +1,5 @@
 Hi there 👋
-I'm ARJUN PRAJAPATI
+I'm ARJUN PRAJAPATI(B-Tech( compititive programmer) CSE -2023||Full stack developer)
 
 👨🏻•💻 About Me
 🎓   Studying Computer Science and Engineering at IET Lucknow and coding stuffs.
