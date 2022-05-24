@@ -165,14 +165,13 @@ Hi there 👋
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Arjunprajapati0207"><img alt="Arjun-Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arjun-Prajapati&custom_title=Arjun-Prajapati%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Arjunprajapati0207"><img alt="Arjun Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arjun Prajapati&custom_title=Arjun-Prajapati%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
 <br/>
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/Arjunprajapati0207"><img src="https://github-profile-trophy.vercel.app/?username=Arjun-Prajapati&layout=compact&theme=algolia" alt="Arjun-Prajapati" /></a> </p>
