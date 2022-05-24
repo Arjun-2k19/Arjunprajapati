@@ -140,7 +140,7 @@ Hi there 👋
   &emsp;
     <a href="https://leetcode.com/Snape7/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-      <a href="https://auth.geeksforgeeks.org/user/shashanktaliwal/practice/"><img alt="Geeks For Geeks Practice" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+      <a href="[https://auth.geeksforgeeks.org/user/shashanktaliwal/practice/](https://auth.geeksforgeeks.org/user/arjunsgm12)"><img alt="Geeks For Geeks Practice" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 <br/>
@@ -150,6 +150,17 @@ Hi there 👋
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
+  
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-Prajapati&show_icons=true&count_private=true&theme=algolia" height="300px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun-Prajapati&langs_count=20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Arjun-Prajapati" height="300px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
 
 
 ----
