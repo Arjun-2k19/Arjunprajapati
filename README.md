@@ -159,23 +159,17 @@ Hi there 👋
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
 ----
 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Arjunprajapati0207"><img alt="Arjun-Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arjun-Prajapati&custom_title=Arjun-Prajapati%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-----
 
-  <br>
-<a href="https://github.com/Arjunprajapati0207">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Prajapti&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href=https://github.com/Arjunprajapati0207">
-  <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Arjun-Prajapati&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
-<br>
-<br>
+<br/>
 
- <hr>
+
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/Arjunprajapati0207"><img src="https://github-profile-trophy.vercel.app/?username=Arjun-Prajapati&layout=compact&theme=algolia" alt="Arjun-Prajapati" /></a> </p>
