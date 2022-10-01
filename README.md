@@ -9,7 +9,7 @@ Hi there 👋
 
 
 ## :sassy_man:  About me
-- :school: I am a `3rd  year Student` at Institute of Engineering and Technology, Lucknow `(Graduation year-2023)`
+- :school: I am a `Final year Student` at Institute of Engineering and Technology, Lucknow `(Graduation year-2023)`
 - :technologist: I love using Software as a solution for every `Problem`
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](file:///C:/Users/ABC/Downloads/Arjun%20resume%20(17).pdf).
 - :nerd_face: Always `learning new things`
